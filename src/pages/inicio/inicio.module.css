@@ -1,0 +1,13 @@
+.h1{
+    color: green;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+img{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
